@@ -1,0 +1,13 @@
+.div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    text-align: center;
+    vertical-align: middle; 
+}
+
+body {
+    text-align: center;
+}
+    
